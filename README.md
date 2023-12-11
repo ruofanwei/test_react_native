@@ -20,4 +20,3 @@ npm run android
 npm run ios
 ```
 
-# test_react_native
